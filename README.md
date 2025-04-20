@@ -11,7 +11,6 @@ This project uses historical Olympic data to predict the number of medals countr
 
 ## 🧠 Machine Learning
 - Model: Linear Regression
-- Evaluation Metrics: R² Score, MAE/MSE (if available)
 
 ## 🚀 How to Use
 1. Clone the repo
