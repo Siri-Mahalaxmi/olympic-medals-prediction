@@ -7,7 +7,7 @@ This project uses historical Olympic data to predict the number of medals countr
 - Pandas
 - Scikit-learn
 - Google Colab
-  Seaborn
+-  Seaborn
 
 ## 🧠 Machine Learning
 - Model: Linear Regression
